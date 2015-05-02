@@ -1,6 +1,6 @@
 {
   "name": "@rdcl/logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A logger.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/rudiculous/rdcl-logger#readme",
   "dependencies": {
-    "chalk": "^1.0.0",
-    "moment": "^2.10.2"
+    "chalk": "~1.0.x",
+    "moment": "~2.10.x"
+  },
+  "engines": {
+    "iojs": "2.0.x"
   }
 }
