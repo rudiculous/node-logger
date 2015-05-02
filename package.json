@@ -1,0 +1,23 @@
+{
+  "name": "@rdcl/logger",
+  "version": "1.0.0",
+  "description": "A logger.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudiculous/rdcl-logger.git"
+  },
+  "author": "RJ van der Weide <rj@rudiculous.net> (http://rdcl.nl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudiculous/rdcl-logger/issues"
+  },
+  "homepage": "https://github.com/rudiculous/rdcl-logger#readme",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "moment": "^2.10.2"
+  }
+}
