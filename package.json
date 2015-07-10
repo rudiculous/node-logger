@@ -1,6 +1,6 @@
 {
   "name": "@rdcl/logger",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "A logger.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/rudiculous/node-logger#readme",
   "dependencies": {
-    "chalk": "~1.0.x",
+    "chalk": "~1.1.x",
     "moment": "~2.10.x"
   },
   "engines": {
